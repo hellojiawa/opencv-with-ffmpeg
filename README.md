@@ -13,4 +13,4 @@ OpenCV在Android平台上不能使用VideoCapture，找遍互联网也没找到�
 
 如果给你节约了宝贵的时间，欢迎给我打赏，一块两块也是爱啊！
 
-      ![](/image/wechat.jpg)          ![](/image/aliypay.jpg)
+![](/image/wechat.jpg)   ![](/image/aliypay.jpg)
