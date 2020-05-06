@@ -1,4 +1,5 @@
 ## OpenCV with FFMPEG
+
 OpenCV版本：V3.1.0
 FFMPEG版本：3.4.1
 
@@ -7,4 +8,4 @@ OpenCV在Android平台上不能使用VideoCapture，找遍互联网也没找到�
 
 如果给你节约了宝贵的时间，欢迎给我打赏，一块两块也是爱啊！
 
-![](/image/wechat.jpg width=200 height=200)
+![](/image/wechat.jpg)
